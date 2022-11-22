@@ -7,7 +7,7 @@ future==0.18.2
 GPUtil==1.4.0
 idna==3.3
 importlib-metadata==4.11.4
-numpy==1.19.2
+numpy
 opencv-python==4.5.3.56
 pefile==2022.5.30
 Pillow==9.1.1
